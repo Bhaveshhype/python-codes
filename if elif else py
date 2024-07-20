@@ -1,7 +1,0 @@
-num=int(input("enterany number:"))
-if(num==0):
-    print("the value is equal to zero")
-elif(num>0):
-    print("the numberis positive")
-else:
-    print("the number is negetive")
